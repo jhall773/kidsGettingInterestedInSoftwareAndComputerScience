@@ -378,10 +378,11 @@ class App(tk.Tk):
         self.image = tk.PhotoImage(file='./Coffee_Item_Defined_2.png')
         self.image2 = tk.PhotoImage(file='./Coffee_Shop_Code.png', width=500, height=400)
 
+"""
 if __name__ == "__main__":
     app = App()
     app.mainloop()
-
+"""
 
 if __name__ == "__main__":
     app = App()
